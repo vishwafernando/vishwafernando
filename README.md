@@ -5,7 +5,7 @@
   </samp>  
 </h3>
 <div id="header" align="center">
-  <img src="assests/coding.gif" width="500"/>
+  <img src="assests/coding.gif"/>
 </div>
 
 <div>
