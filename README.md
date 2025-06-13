@@ -95,7 +95,7 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vishwafernando&theme=dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=vishwafernando&theme=dark" alt="GitHub Streak" /></a>
 
 <p align="center">
   <a href="https://github.com/vishwafernando">
