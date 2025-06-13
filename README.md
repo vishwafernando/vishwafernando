@@ -7,7 +7,7 @@
 <div id="header" align="center">
  
 </div>
-   <img src="assests/ghipy.gif" width="100"/>
+   <img src="assests/giphy.gif" width="100"/>
 <div>
  <p align="center">
    <a href="#" target="_blank">
@@ -56,6 +56,7 @@
   <img
     align="left"
     width="350"
+    height="300"
     src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
     alt="Coding gif"
   />
