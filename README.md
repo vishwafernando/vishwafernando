@@ -5,9 +5,9 @@
   </samp>  
 </h3>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+ 
 </div>
-
+   <img src="assests/ghipy.gif" width="100"/>
 <div>
  <p align="center">
    <a href="#" target="_blank">
@@ -56,7 +56,7 @@
   <img
     align="left"
     width="350"
-    src="/assests/giphy.gif"
+    src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
     alt="Coding gif"
   />
 </p>
