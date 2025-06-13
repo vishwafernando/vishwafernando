@@ -16,7 +16,7 @@
       alt="Vishwa"
     />
   </a>
-  <a href="https://www.linkedin.com/in/vishwafernando" target="_blank">
+  <a href="www.linkedin.com/in/vishwavf" target="_blank">
     <img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="Vishwa"
@@ -95,12 +95,12 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 ### :fire: My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vishwavf&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vishwafernando&theme=dark)](https://git.io/streak-stats)
 
 <p align="center">
   <a href="https://github.com/vishwafernando">
     <img
-      src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishwavf&theme=gruvbox"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishwafernando&theme=gruvbox"
       alt="Vishwa's GitHub Contribution"
     />
   </a>
@@ -110,7 +110,7 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
   <a href="https://github.com/vishwafernando"
     ><img
       alt="Vishwa's Github Stats"
-      src="https://denvercoder1-github-readme-stats.vercel.app/api?username=vishwavf&show_icons=true&count_private=true&theme=react&border_color=108aea&bg_color=0D1117&title_color=2edce1&icon_color=F8D866"
+      src="https://denvercoder1-github-readme-stats.vercel.app/api?username=vishwafernando&show_icons=true&count_private=true&theme=react&border_color=108aea&bg_color=0D1117&title_color=2edce1&icon_color=F8D866"
       height="192px"
       width="49.5%"
   /></a>
@@ -124,4 +124,4 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
   <br />
 </a>
 
-![Vishwa's Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishwavf&custom_title=Vishwa's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=108aea&line=108aea&point=108aea&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Vishwa's Graph](https://github-readme-activity-graph.vercel.app/graph?username=vishwafernando&custom_title=Vishwa's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=108aea&line=108aea&point=108aea&area_color=FFFFFF&title_color=FFFFFF&area=true)
