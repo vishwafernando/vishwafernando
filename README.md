@@ -106,7 +106,7 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 
 
 <p align="center">
-  <a href="https://github.com/vishwafernando">
+  <a>
     <img
       src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vishwafernando&theme=gruvbox"
       alt="Vishwa's GitHub Contribution"
