@@ -96,11 +96,8 @@ I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giph
 ### :fire: My Stats :
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com?user=vishwafernando&theme=dark" 
-      alt="GitHub Streak" 
-      />
+  <a>
+    <img src="https://github-stats-three-gamma.vercel.app?user=vishwafernando&theme=dark" alt="GitHub Streak" />
   </a>
 </p>
 
