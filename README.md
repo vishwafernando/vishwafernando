@@ -10,27 +10,27 @@
 
 <div>
  <p align="center">
-   <a href="#" target="_blank">
+   <a href="#"target="_blank">
     <img
       src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white"
       alt="Vishwa"
     />
   </a>
-  <a href="www.linkedin.com/in/vishwavf" target="_blank">
+  <a href="www.linkedin.com/in/vishwafernando"target="_blank">
     <img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="Vishwa"
     />
   </a>
  
-  <a href="https://www.youtube.com/@vishwavf?sub_confirmation=1" target="_blank">
+  <a href="https://www.youtube.com/@vishwavf?sub_confirmation=1"target="_blank">
     <img
       src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"
       alt="Youtube"
     />
   </a>
 
-   <a href="https://instagram.com/vishwa_vf" target="_blank">
+   <a href="https://instagram.com/vishwa_vf"target="_blank">
     <img
       src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white"
       alt="Vishwa"/>
