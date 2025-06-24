@@ -1,6 +1,6 @@
 
 <h3 align="center">
-  <samp>&gt; Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm,
+  <samp>&gt; <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>Hi I'm,
     <br><b><a target="_blank" href="#">VishwaFernando!</a></b>
   </samp>  
 </h3>
